@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029200747292",
+    "project_id": "temp-conversion-nzzy7r",
+    "storage_bucket": "temp-conversion-nzzy7r.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029200747292:android:ce8b6b04a8db51944c78d9",
+        "android_client_info": {
+          "package_name": "com.mycompany.tempconversion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXa_NtIa8dRZm5Gcj31HTpYxKiUa1c9Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
